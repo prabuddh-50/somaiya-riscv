@@ -18,8 +18,9 @@ The command (ls -ltr object_file) would list the contents of the "object" direct
 Inorder to view the disassembled object file use the command
 > riscv64-unknown-elf-objdump -d <filename.o>
 To view less and main function of the program
-> riscv64-unknown-elf-objdump <object file> -d <object filename.o> | less
-> /main
-> n 
-
+```
+riscv64-unknown-elf-objdump <object file> -d <object filename.o> | less
+ /main
+ n 
+```
 
