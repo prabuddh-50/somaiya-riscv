@@ -56,14 +56,17 @@ The Application Binary Interface (ABI) is a set of rules and conventions that de
 1. __Load doubleword__ (type i)
    
    > ld rd, imm12(rs1)
+   
 The ld rd, imm12(rs1) instruction loads a 64-bit value from memory into the destination register rd. The effective memory address is calculated by adding the signed immediate value imm12 to the value in the base register rs1.
 2. __Addition__ (type r)
 
    > add rd, rs1, rs2
+
 The add rd, rs1, rs2 instruction adds the values in registers rs1 and rs2 and stores the result in register rd. Mathematically, it can be represented as rd = rs1 + rs2.
 4. __Store doubleword__ (type s)
 
    > sd rs2, imm12(rs1)
+
 The sd rs2, imm12(rs1) instruction stores a 64-bit value from the source register rs2 into memory. The effective memory address is calculated by adding the signed immediate value imm12 to the value in the base register rs1
 
 
