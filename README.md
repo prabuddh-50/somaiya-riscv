@@ -95,6 +95,7 @@ This is the flowchart of the program
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/b61f15db-c9e4-459f-a13c-6912c4fbc22e)
 
 
+_C code_
 ```
 #include <stdio.h>
 extern int load(int x, int y);
@@ -113,8 +114,21 @@ int main() {
 
 ```
 
+_Assembly code_
 ```
+.section .text
+.global load
+.type load, @function
 
+load:
+      add a4, a0, zero
+      add a2, a0, a1
+      add a3, a0, zero
+loop: add a4, a3, a4
+      addi a3, a3, 1
+      blt a3, a2, loop
+      add a0, a4, zero
+      ret
 ```
 ![new_algo_riscv_code](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/c8dd4890-923f-40e7-8638-50ecde35459e)
 
