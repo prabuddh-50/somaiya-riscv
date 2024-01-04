@@ -95,6 +95,13 @@ This is the flowchart of the program
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/b61f15db-c9e4-459f-a13c-6912c4fbc22e)
 
 
+```
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/670bbaaf-7430-4403-84c1-aca53a378f4d)
+
+
+
+
+```
 ![new_algo_riscv_code](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/c8dd4890-923f-40e7-8638-50ecde35459e)
 
 
