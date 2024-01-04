@@ -88,6 +88,9 @@ The add rd, rs1, rs2 instruction adds the values in registers rs1 and rs2 and st
 The sd rs2, imm12(rs1) instruction stores a 64-bit value from the source register rs2 into memory. The effective memory address is calculated by adding the signed immediate value imm12 to the value in the base register rs1
 ***
 ### Lab work using ABI functions call
+In this labwork we write a `c` program which calls a function written in `assembly` language. This code is executed in RISC-V compiler.
+
+This is the flowchart of the program
 
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/b61f15db-c9e4-459f-a13c-6912c4fbc22e)
 
