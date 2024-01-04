@@ -1,5 +1,15 @@
 # VSD RISC-V Internship
 ## Day 1-Introduction to RISC-V ISA And GNU compiler toolchain
+### RISC-V ISA
+Unlike proprietary processor architectures, RISC-V is an open-source instruction set architecture (ISA) used for the development of custom processors targeting a variety of end applications. The royalty-free RISC-V ISA features a small core set of instructions upon which all the design’s software runs.
+The different instructions included in RISC-V are listed below.
+
+-Pseudo instructions - For e.g- mv,li,ret etc
+-Base integer instruction (RV64I, RV32I)-For e.g-lui,addi etc
+Multiply extension (RV64M) -For e.g- mulw,divw etc
+Single and double floating point instruction (RV64F, RV64D) -For e.g- flw,fadd etc
+Application binary instruction
+Memory allocation and stack pointer
 ### Labwork for RISC-V software toolchain
 Here we execute a simple c program using a text editor named __leafpad__ 
 
