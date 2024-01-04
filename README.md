@@ -49,6 +49,16 @@ The Application Binary Interface (ABI) is a set of rules and conventions that de
 
 ![abi2](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/7d006a23-e0cd-4af9-a3eb-dd8c76d397d8)
 
+### base integer instruction examples
+
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/40798b85-c784-4759-99a3-26e008a888ae)
+
+1. __Load doubleword__ (type i)
+   > ld rd, imm12(rs1)
+2. __Addition__ (type r)
+   > add rd, rs1, rs2
+3. __Store doubleword__ (type s)
+   > sd rs2, imm12(rs1)
 
 
 
