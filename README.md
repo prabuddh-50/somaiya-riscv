@@ -38,6 +38,17 @@ Lets rerun the program using __-Ofast optimization__
 
 
 The major difference between the -O1 & -Ofast is that -O1 is used to improve code execution speed without spending excessive compilation time or significantly increasing the size of the executable where -Ofast is a higher level of optimization that includes aggressive optimizations, potentially sacrificing some strict compliance with language standards for performance gains.
+***
+
+# Day 2- Introduction to Application Binary Interface And Basic error flow
+
+## Application Binary Interface
+
+The Application Binary Interface (ABI) is a set of rules and conventions that define how binary programs interact with each other and with the operating system at the binary level. In other words, the ABI specifies the low-level details of how functions are called, how parameters are passed, how data is structured in memory, and other aspects that enable different parts of a program or different programs to work together.
+
+
+![abi2](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/7d006a23-e0cd-4af9-a3eb-dd8c76d397d8)
+
 
 
 
