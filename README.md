@@ -96,10 +96,24 @@ This is the flowchart of the program
 
 
 ```
-![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/670bbaaf-7430-4403-84c1-aca53a378f4d)
+#include <stdio.h>
+extern int load(int x, int y);
 
+int main() {
 
+      int result = 0;
+      
+      int count = 9;
+      
+      result = load(0x0 , count+1);
+      
+      printf("Sum of number from 1 to %d is %d\n",count, result);
 
+}
+
+```
+
+```
 
 ```
 ![new_algo_riscv_code](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/c8dd4890-923f-40e7-8638-50ecde35459e)
