@@ -5,11 +5,11 @@ Unlike proprietary processor architectures, RISC-V is an open-source instruction
 The different instructions included in RISC-V are listed below.
 
 * Pseudo instructions - For e.g- mv,li,ret etc
--Base integer instruction (RV64I, RV32I)-For e.g-lui,addi etc
-Multiply extension (RV64M) -For e.g- mulw,divw etc
-Single and double floating point instruction (RV64F, RV64D) -For e.g- flw,fadd etc
-Application binary instruction
-Memory allocation and stack pointer
+*Base integer instruction (RV64I, RV32I)-For e.g-lui,addi etc
+*Multiply extension (RV64M) -For e.g- mulw,divw etc
+*Single and double floating point instruction (RV64F, RV64D) -For e.g- flw,fadd etc
+*Application binary instruction
+*Memory allocation and stack pointer
 ### Labwork for RISC-V software toolchain
 Here we execute a simple c program using a text editor named __leafpad__ 
 
