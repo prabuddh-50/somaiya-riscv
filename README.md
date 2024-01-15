@@ -175,7 +175,8 @@ This labwork show how to convert `c file` into `hex file` , storing it into memo
 * Package: TSSOP20, QFN20, SOP16, SOP8
 
 ### Application
-Wearable Temperature Monitor for Athletes
+__Wearable Temperature Monitor for Athletes__
+
 The CH32V003 can be used in a versatile wearable temperature monitor for athletes, offering several benefits:
 
 __Functionality:__
