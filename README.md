@@ -135,14 +135,22 @@ loop: add a4, a3, a4
 
 ![new_algo_riscv_op](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/4d4f4717-94e1-48a5-903a-e067e17091d1)
 
+
 ***
+
 This labwork show how to convert `c file` into `hex file` , storing it into memory and then executing using riscv cpu
+
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/9a7fd181-218b-4f60-b11b-ca5f1fb61a44)
+
 > vim picorv32.v
+
 > vim testbench.v
+
 ![veri](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/9714940b-6bb9-4b58-a2c5-aad1e2f36e02)
 
+
 ![script for hex conversion](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/76006181-d46a-4fa4-92b8-6a7c1e9beeea)
+
 
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/5ddcc6e2-faa3-4502-99b2-84bc0c4ba44a)
 
