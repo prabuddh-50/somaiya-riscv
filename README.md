@@ -174,7 +174,17 @@ This labwork show how to convert `c file` into `hex file` , storing it into memo
 * 1-wire serial debug interface (SDI)
 * Package: TSSOP20, QFN20, SOP16, SOP8
 
+### Application
+Wearable Temperature Monitor for Athletes
+The CH32V003 can be used in a versatile wearable temperature monitor for athletes, offering several benefits:
 
+__Functionality:__
+Temperature Sensing: The built-in 10-bit ADC can be connected to a temperature sensor (e.g., thermistor) worn on the athlete's skin or clothing.
+Data Processing: The CH32V003 can process the raw ADC data, converting it to temperature values and calculating relevant metrics like heart rate variability based on temperature fluctuations.
+Alerts & Notifications: The MCU can trigger alerts if the temperature exceeds a certain threshold, indicating potential heat stress or exertion levels requiring adjustment.
+__Additional Features:__
+Vibration Motor: The GPIOs can drive a vibration motor to provide tactile alerts for temperature or heart rate changes.
+LED Indicators: LEDs can be connected to visually represent temperature range or alert states.
 
 
 
