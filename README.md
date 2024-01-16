@@ -194,6 +194,12 @@ Vibration Motor: The GPIOs can drive a vibration motor to provide tactile alerts
 LED Indicators: LEDs can be connected to visually represent temperature range or alert states.
 
 
+***
+# VSDSQUADRON Platform IO
+
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/27912a89-cb54-443e-a256-38a7b0a4cb82)
+
+
 
 
 
