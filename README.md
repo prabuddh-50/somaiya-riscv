@@ -199,6 +199,14 @@ LED Indicators: LEDs can be connected to visually represent temperature range or
 
 ![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/27912a89-cb54-443e-a256-38a7b0a4cb82)
 
+## LED BLINKING
+
+### For 100 delay units
+
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/8511289d-7bbb-4cd8-ac2e-00f475972b27)
+
+
+
 
 
 
