@@ -208,6 +208,9 @@ LED Indicators: LEDs can be connected to visually represent temperature range or
 
 
 
+https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/691ff161-42ea-4c2e-b7f1-0536944a8df2
+
+
 
 
 
