@@ -210,6 +210,15 @@ LED Indicators: LEDs can be connected to visually represent temperature range or
 
 https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/691ff161-42ea-4c2e-b7f1-0536944a8df2
 
+# Controlling Servo motor using IR sensor
+## Block diagram 
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/2f1484f0-87f9-4e69-8c71-c6a6fba71c82)
+
+## Circuit Setup
+![image](https://github.com/prabuddh-50/somaiya-riscv/assets/142028580/2a3297fd-1a24-4fe4-9e86-04ca8f39724f)
+
+
+
 
 
 
